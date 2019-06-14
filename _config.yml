@@ -110,7 +110,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Orange County, CA"
-  email            :
+  email            : "justingyee@ucla.edu"
+  github           : "jgyee"
+  linkedin         : "justin-yee-89336a141/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
