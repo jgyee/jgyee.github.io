@@ -4,7 +4,8 @@ permalink: /projects/
 title: "Data Science Projects"
 author_profile: true
 header:
-  image: "/images/danapointharbor.jpg"
+  overlay_image: "/images/danapointharbor.jpg"
+  show_overlay_excerpt: false
 ---
 
 <ul>
