@@ -5,7 +5,7 @@ tags: [Experimental Design, Simulation]
 header:
   overlay_image: "/images/danapointharbor.jpg"
   show_overlay_excerpt: false
-excerpt:
+excerpt: "2 Way ANOVA Factorial Design Experiment -- Effects of Alcohol and Cannabis on Islanders' Serotonin Levels"
 mathjax: true
 ---
 
